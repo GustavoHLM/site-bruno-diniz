@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://brunodinizfotografo.com.br/sitemap.xml
+Sitemap: https://gustavohlm.github.io/site-bruno-diniz/sitemap.xml
